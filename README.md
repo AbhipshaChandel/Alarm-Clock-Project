@@ -23,4 +23,4 @@ Javascript
 ![Mobile View](alarm-phone-view.png)
 
 #Live Demo
-
+![Live Demo](https://abhipshachandel.github.io/Alarm-Clock-Project/)
