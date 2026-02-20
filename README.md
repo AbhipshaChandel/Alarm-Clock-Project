@@ -17,10 +17,10 @@ Javascript
 ![Alarm clock UI](alarm-clock-ui.png)
 
 -Alarm Ringing
-![Alarm Ringing](alarm-ringing.png)
+![Alarm Ringing](alarm-clock-ringing.png)
 
 -Mobile View
-![Mobile View](alarm-phone-view)
+![Mobile View](alarm-phone-view.png)
 
 #Live Demo
 
